@@ -1,0 +1,1 @@
+angular.module("app",["ui.router"]).controller("appController",["$scope","$window",function(o,p){o.appTitle="webApp",o.title="首页"}]);
